@@ -1,0 +1,45 @@
+body {
+    margin: auto;
+}
+
+.quem-somos {
+background-color: gold;
+color: black;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif    ;
+}
+
+.l1{
+
+    color:darkslategrey;
+
+}
+
+.margin {
+    
+    padding: 30px;
+}
+
+.servicos{
+    background-color: rgb(241, 241, 191);
+}
+
+.imgserv {
+    border-radius: 500px;
+  
+}
+
+.margin-img {
+    margin-top: 40px;
+}
+
+.descricao {
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    padding-top: 5%;
+}
+
+.texto {
+    font-family:sans-serif ;
+    color: rgb(2, 10, 31);
+}
+
